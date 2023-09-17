@@ -6,6 +6,12 @@
     "keywords": ["2d", "sprite", "sprite editor window"],
     "category": "2D",
 	"description": "Use Unity Sprite Editor Window to create and edit Sprite asset properties like pivot, borders and Physics shape",
+    "repository": {
+        "url": "https://github.com/Donniehieu/Unity.git",
+        "type": "git",
+        "revision": ""
+      },
     "dependencies": {
     }
+    
 }
